@@ -56,7 +56,7 @@ $conn->close();
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>NNTPPS Login</title>
+  <title>NNTPS Login</title>
   <style>
     body {
       margin: 0;
@@ -189,7 +189,7 @@ $conn->close();
 
   <!-- Login Box -->
   <div class="login-container">
-    <h2>NNTPPS Login</h2>
+    <h2>NNTPS Login</h2>
     <form method="POST" action="">
       <div class="field">
         <label for="email">Email</label>
